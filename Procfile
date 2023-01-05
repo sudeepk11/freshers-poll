@@ -1,0 +1,1 @@
+web gunicorn freshers-poll.wsgi:application --log-file - p
